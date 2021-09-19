@@ -1,4 +1,4 @@
-# gamagit
+# gamagit-react
 Projeto desenvolvido durante as aulas de React do Gama Academy no programa Hiring Coders.
 
 ## A aplicação
